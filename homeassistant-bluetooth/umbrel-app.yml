@@ -10,9 +10,3 @@ ports:
   - 8123
 volumes:
   - my-ha-bluetooth:/config
-releaseNotes: >-
-  0.0.1 first run
-
-
-path: ""
-defaultPassword: ""
