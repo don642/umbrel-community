@@ -8,6 +8,7 @@ releaseNotes: "Initial version"
 developer: "Donat Waber"
 website: "https://github.com/don642/"
 dependencies: []
-icon: "./icon.svg"
 category: home-automation
-port: 8123
+ports: 
+  - 8123
+icon: "./icon.svg"
