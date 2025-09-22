@@ -1,6 +1,6 @@
 manifestVersion: 1.0
 
-id: homeassistant-bluetooth
+id:     homeassistant-bluetooth
 name: "Home Assistant + Bluetooth"
 description: "Home Assistant with Bluetooth support"
 version: "1.0.0"
