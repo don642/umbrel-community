@@ -1,10 +1,10 @@
-id: don642
+id: don
 name: Dons App Store
 description: Eigene Apps für Umbrel
 maintainer: Don
 
 gallery:
-  id: don642
+  id: don
   name: Dons App Store
   description: Eigene Apps für Umbrel mit Bluetooth-Unterstützung
   maintainer: Don
