@@ -8,5 +8,3 @@ icon: "homeassistant"   # oder eigener Icon-Pfad
 depends_on: []           # z. B. leer oder sonstige Abhängigkeiten
 ports:
   - 8123
-volumes:
-  - my-ha-bluetooth:/config
