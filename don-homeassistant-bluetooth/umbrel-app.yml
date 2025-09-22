@@ -11,4 +11,6 @@ dependencies: []
 category: home-automation
 ports: 
   - 8123
+volumes:
+  - config
 icon: "./icon.svg"
