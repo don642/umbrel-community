@@ -1,10 +1,12 @@
-manifestVersion: 1.0   # oder 1.1 falls du Hooks brauchst
+manifestVersion: 1.0
+
 id: homeassistant-bluetooth
 name: "Home Assistant + Bluetooth"
-description: "Home Assistant with Bluetooth device access"
-version: "0.0.1"
+description: "Home Assistant with Bluetooth support"
+version: "1.0.0"
+releaseNotes: "Initial version"
+developer: "Donat Waber"
+website: "https://github.com/don642/"
+dependencies: []
 category: home-automation
-icon: "homeassistant"   # oder eigener Icon-Pfad
-depends_on: []           # z. B. leer oder sonstige Abhängigkeiten
-ports:
-  - 8123
+port: 8123
