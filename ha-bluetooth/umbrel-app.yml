@@ -11,4 +11,8 @@ ports:
 volumes:
   - my-ha-bluetooth:/config
 releaseNotes: >-
-0.0.1 first run
+  0.0.1 first run
+
+
+path: ""
+defaultPassword: ""
