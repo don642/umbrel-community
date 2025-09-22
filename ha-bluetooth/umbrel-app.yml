@@ -1,4 +1,4 @@
-manifestVersion: 1.0   # oder 1.1 falls du Hooks brauchst
+manifestVersion: 1.1   # oder 1.1 falls du Hooks brauchst
 id: my-homeassistant-bluetooth
 name: "Home Assistant + Bluetooth"
 description: "Home Assistant with Bluetooth device access"
