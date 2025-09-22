@@ -9,8 +9,7 @@ developer: "Donat Waber"
 website: "https://github.com/don642/"
 dependencies: []
 category: home-automation
-ports: 
-  - 8123
+port: 8123
 volumes:
   - config
 mounts:
