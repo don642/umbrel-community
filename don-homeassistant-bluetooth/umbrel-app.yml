@@ -13,4 +13,7 @@ ports:
   - 8123
 volumes:
   - config
+mounts:
+  - source: config
+    target: /config
 icon: "./icon.svg"
