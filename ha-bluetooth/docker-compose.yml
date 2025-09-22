@@ -1,0 +1,16 @@
+version: "3.8"
+services:
+  homeassistant:
+    image: homeassistant/home-assistant:stable
+    container_name: homeassistant_bluetooth   # optional
+    network_mode: host
+    privileged: true
+    devices:
+      - /dev/vhci:/dev/vhci
+    volumes:
+      - "${APP_DATA_DIR}/my-homeassistant-bluetooth/config:/config"
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+      - /run/dbus:/run/dbus
+    environment:
+      TZ: "Europe/Zurich"
