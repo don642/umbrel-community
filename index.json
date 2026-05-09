@@ -1,6 +1,6 @@
 {
-  "name": "Mein Custom Store",
+  "name": "umbrel-community",
   "apps": [
-    "myapp"
+    "vaultwarden-2"
   ]
 }
