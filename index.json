@@ -1,6 +1,10 @@
 {
-  "name": "umbrel-community",
+  "name": "Dons App Store",
+  "description": "Eigene Apps für Umbrel mit Bluetooth-Unterstützung",
+  "maintainer": "Don",
   "apps": [
+    "don-homeassistant-bluetooth",
     "vaultwarden-2"
   ]
 }
+
