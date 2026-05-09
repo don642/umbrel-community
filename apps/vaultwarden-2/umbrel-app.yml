@@ -1,0 +1,11 @@
+id: vaultwarden-2
+name: Vaultwarden-2
+version: "1.0.0"
+tagline: "Self-hosted Bitwarden-compatible password manager"
+port: 8088
+icon: https://raw.githubusercontent.com/dani-garcia/vaultwarden/main/resources/vaultwarden-icon.png
+category: security
+developer: Vaultwarden Community
+description: >
+  Vaultwarden is a lightweight Bitwarden-compatible password manager
+  that you can self-host on your Umbrel.
